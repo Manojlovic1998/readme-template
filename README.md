@@ -259,3 +259,9 @@ Inspiration, code snippets, etc.
 - Media 1 - https://unsplash.com/photos/some-photo
 - Media 2 - https://unsplash.com/photos/some-photo
 - etc...
+
+## Technologies Used
+
+- Technology 1 - version 1.0
+- Technology 2 - version 2.0
+- etc...
