@@ -232,6 +232,10 @@ If you have a separate testing repository, link to it here.
 - Step-by-step bullets
 - `code blocks for commands`
 
+### Deployment
+
+Add additional notes about how to deploy this on a live system. Include screenshots and code examples if necessary.
+
 ## Help
 
 Any advise for common problems or issues.
