@@ -266,6 +266,9 @@ Inspiration, code snippets, etc.
 
 ## Technologies Used
 
+Here you should mention the tech stack used to create your project.
+For more aesthetic READMEs, you can use [skill-icons](https://github.com/tandpfun/skill-icons) to generate a list of icons for your tech stack.
+
 - Technology 1 - version 1.0
 - Technology 2 - version 2.0
 - etc...
