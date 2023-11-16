@@ -1,5 +1,7 @@
 # Your Project's Name
 
+![Imgur](https://i.imgur.com/6hXLKhL.png)
+
 ## Description
 
 One or two paragraphs providing an overview of your project. Tell us what your project is about and what it does. Keep it under 250 words.
